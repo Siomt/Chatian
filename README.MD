@@ -5,8 +5,8 @@
 # Android基础
 
 - [x] [Cardview使用](https://github.com/Siomt/CardViewDemo)
-- [] ToolBar详解
-- [] SeekBar使用
+- [ ] ToolBar详解
+- [ ] SeekBar使用
 - [x] [BottomNavigationView 详解](https://github.com/Siomt/BaseAndroid)
 # Addroid进阶
 
