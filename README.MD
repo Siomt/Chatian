@@ -19,12 +19,12 @@
 
 ### 第三方库的使用
 
-  - [ ] EventBus详解
-  - [ ] 图片加载Glide
-  - [ ] 数据库GreenDao
-  - [ ] 网络请求OKHttp
-  - [ ] EventBus详解
-  - [ ] ButterKnife详解
+ - [ ] EventBus详解
+ - [ ] 图片加载Glide
+ - [ ] 数据库GreenDao
+ - [ ] 网络请求OKHttp
+ - [ ] EventBus详解
+ - [ ] ButterKnife详解
 
 
 
