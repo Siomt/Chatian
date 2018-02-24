@@ -8,7 +8,23 @@
 - [ ] ToolBar详解
 - [ ] SeekBar使用
 - [x] [BottomNavigationView 详解](https://github.com/Siomt/BaseAndroid)
+- [ ] ConstraintLayout详解
+
+
 # Addroid进阶
+
+- [ ] 自定义控件详解
+- [ ] jni/ndk 开发
+- [ ] Kotlin基础入门
+
+### 第三方库的使用
+
+  - [ ] EventBus详解
+  - [ ] 图片加载Glide
+  - [ ] 数据库GreenDao
+  - [ ] 网络请求OKHttp
+  - [ ] EventBus详解
+  - [ ] ButterKnife详解
 
 
 
